@@ -1,0 +1,7 @@
+path: \\?\D:\soft\python\apps\ultralytics\working\json\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: black_block
